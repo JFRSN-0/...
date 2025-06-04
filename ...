@@ -1,121 +1,16 @@
-#EXTM3U
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",A Vaca e o Frango
-http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Aladdin
-http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Apenas Um Show
-http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",As Aventuras de Jackie Chan
-http://15.235.9.200:14804
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",As Aventuras de Tintim
-http://15.235.9.200:14803
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Como Tartarugas Ninja
-http://15.235.9.200:14808
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",As Visões da Raven
-http://15.235.9.200:14810
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Avatar, A Lenda de Aang
-http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Avatar, A Lenda de Korra
-http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Ben 10
-http://15.235.9.200:14819
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Big Bang: A Teoria
-http://15.235.9.200:14037
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Bob Esponja
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Boruto
-http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Cão Coragem
-http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Chapolin
-http://15.235.9.200:14844
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Chaves
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Chaves Desenho
-http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Denis, O Pimentinha
-http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Dragon Ball Super
-http://15.235.9.200:14879
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Dragon Ball Z
-https://mf.fazoeli.co.za/fontes/megaflix/24h_dragonball.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Escolinha do Professor Raimundo
-http://15.235.9.200:14904
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Eu, a Patroa e as Crianças
-http://15.235.9.200:14908
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",FitDance
-http://15.235.9.200:14918
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Futurama
-http://15.235.9.200:14924
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Homem de Ferro
-http://24hrs.homelinux.com:8080/24H-ironman/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Jambo e Ruivão
-http://24hrs.homelinux.com:8080/24H-jamboeruivao/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",João Grandão
-http://24hrs.homelinux.com:8080/24H-joaograndao/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Joaninha
-http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Maguila, ó Gurila
-http://24hrs.homelinux.com:8080/24H-maguilaogurila/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Manda Chuva
-http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Milagroso
-http://15.235.9.200:14699
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",O Pequeno Urso
-http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Os Jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w2021591179.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Os Jovens Titãs
-http://15.235.9.200:14981
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Os Padrinhos Mágicos
-http://24hrs.homelinux.com:8080/24H-ospadrinhosmagicos/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Os Pinguins de Madagascar
-http://15.235.9.200:14983
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Os Simpsons
-http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Patolino
-http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Pepe Legal
-http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Rick e Morty
-http://15.235.9.200:14010
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Samurai Champloo
-http://15.235.9.200:14013
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Scooby Doo
-http://15.235.9.200:14978
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Show da Luna
-http://24hrs.homelinux.com:8080/24H-showdaluna/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",South Park
-http://15.235.9.200:14025
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Star Wars Rebels
-http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Steven Universo
-http://15.235.9.200:14026
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Super Choque
-http://15.235.9.200:14028
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Super Mário
-http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Tartaruga Touché
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",TazMania
-http://24hrs.homelinux.com:8080/24H-tazmania/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Teletubbies
-http://15.235.9.200:14035
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Timão e Pumba
-http://24hrs.homelinux.com:8080/24H-timaoepumba/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Todo Mundo Odeia o Chris
-http://15.235.9.200:14040
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Tom e Jerry
-http://15.235.9.200:14041
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Três Espiãs
-http://24hrs.homelinux.com:8080/24H-tresespias/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Turma da Mônica
-http://15.235.9.200:14044
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Um Maluco no Pedaço
-http://15.235.9.200:14046
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Wolverine
-http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Yu Yu Hakusho
-http://15.235.9.200:14049
-#EXTINF:-1 group-title="Ao Vivo - 24 Horas",Zé Buscapé
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+{
+  "Content": {
+    "items": [
+      {
+        "title": "Video 1",
+        "videoUrl": "http://example.com/video1.mp4",
+        "poster": "http://example.com/poster1.jpg"
+      },
+      {
+        "title": "Video 2",
+        "videoUrl": "http://example.com/video2.mp4",
+        "poster": "http://example.com/poster2.jpg"
+      }
+    ]
+  }
+}
