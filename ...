@@ -1,10 +1,13 @@
-[
-  {
-    "title": "Globo",
-    "url": "http://url_video_1"
-  },
-  {
-    "title": "Discovery",
-    "url": "http://url_video_2"
-  }
-]
+{
+  "channels": [
+    {
+      "title": "Canal 1",
+      "url": "http://exemplo.com/canal1.m3u8",
+      "group": "Notícias"
+    },
+    {
+      "title": "Canal 2",
+      "url": "http://exemplo.com/canal2.m3u8"
+    }
+  ]
+}
