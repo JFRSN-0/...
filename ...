@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Content>
-    <item title="Globo" streamformat="hls" url="http://185.236.183.116:17245"/>
+    <item title="Globo" streamformat="hls" url="http://185.236.183.116:17245">
+        <channel>Globo</channel>
     <item title="A Vaca e o Frango" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8">
         <channel>A Vaca e o Frango</channel>
     </item>
