@@ -1,10 +1,10 @@
 [
   {
-    "title": "Vídeo 1",
-    "url": "http://example.com/video1.mp4"
+    "title": "Discovery",
+    "url": "http://185.236.183.118:14144"
   },
   {
-    "title": "Vídeo 2",
-    "url": "http://example.com/video2.mp4"
+    "title": "",
+    "url": ""
   }
 ]
