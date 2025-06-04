@@ -1,4 +1,10 @@
 [
-  { "title": "Globo", "url": "http://185.236.183.116:17245" },
-  { "title": "", "url": "http://example.com/video2" }
+  {
+    "title": "Título do Vídeo 1",
+    "url": "http://url_video_1"
+  },
+  {
+    "title": "Título do Vídeo 2",
+    "url": "http://url_video_2"
+  }
 ]
