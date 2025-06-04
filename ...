@@ -1,16 +1,4 @@
 {
-  "Content": {
-    "items": [
-      {
-        "title": "Video 1",
-        "videoUrl": "http://example.com/video1.mp4",
-        "poster": "http://example.com/poster1.jpg"
-      },
-      {
-        "title": "Video 2",
-        "videoUrl": "http://example.com/video2.mp4",
-        "poster": "http://example.com/poster2.jpg"
-      }
-    ]
-  }
+  "title": "Exemplo de Título",
+  "url": "https://www.exemplo.com"
 }
