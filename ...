@@ -1,20 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Content>
-    <item title="Filmes Sucessos" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Filmes Ação" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Cine Terror" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Filmes Suspense" streamformat="hls" url="https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId="/>
-    <item title="Ficção Científica" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"/>
-    <item title="Cine Crime" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"/>
-    <item title="Cine Comédia" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"/>
-    <item title="Cine Comédia Romântica" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"/>
-    <item title="Cine Drama" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Cine Clássicos" streamformat="hls" url="https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId="/>
-    <item title="Terror de Lixo" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Filmes Aventura" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Cine Família" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Filmes Nacionais" streamformat="hls" url="https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId="/>
-    <item title="Netmovies" streamformat="hls" url="https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"/>
-    <item title="Runtime TV e Filmes" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"/>
-    <item title="Filmelier" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"/>
+    <item title="A Vaca e o Frango" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8">
+        <channel>A Vaca e o Frango</channel>
+    </item>
+    <item title="Aladdin" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8">
+        <channel>Aladdin</channel>
+    </item>
+    <item title="Apenas Um Show" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8">
+        <channel>Apenas Um Show</channel>
+    </item>
+    <item title="As Aventuras de Jackie Chan" streamformat="hls" url="http://15.235.9.200:14804">
+        <channel>As Aventuras de Jackie Chan</channel>
+    </item>
+    <item title="As Aventuras de Tintim" streamformat="hls" url="http://15.235.9.200:14803">
+        <channel>As Aventuras de Tintim</channel>
+    </item>
+    <item title="As Tartarugas Ninja" streamformat="hls" url="http://15.235.9.200:14808">
+        <channel>As Tartarugas Ninja</channel>
+    </item>
+    <item title="As Visões da Raven" streamformat="hls" url="http://15.235.9.200:14810">
+        <channel>As Visões da Raven</channel>
+    </item>
+    <item title="Avatar, A Lenda de Aang" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8">
+        <channel>Avatar, A Lenda de Aang</channel>
+    </item>
+    <item title="Avatar, A Lenda de Korra" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8">
+        <channel>Avatar, A Lenda de Korra</channel>
+    </item>
+    <item title="Ben 10" streamformat="hls" url="http://15.235.9.200:14819">
+        <channel>Ben 10</channel>
+    </item>
+    <item title="Big Bang: A Teoria" streamformat="hls" url="http://15.235.9.200:14037">
+        <channel>Big Bang: A Teoria</channel>
+    </item>
+    <item title="Bob Esponja" streamformat="hls" url="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus">
+        <channel>Bob Esponja</channel>
+    </item>
+    <item title="Boruto" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8">
+        <channel>Boruto</channel>
+    </item>
+    <item title="Cão Coragem" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8">
+        <channel>Cão Coragem</channel>
+    </item>
+    <item title="Chapolin" streamformat="hls" url="http://15.235.9.200:14844">
+        <channel>Chapolin</channel>
+    </item>
+    <item title="Chaves" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8">
+        <channel>Chaves</channel>
+    </item>
+    <item title="Chaves Desenho" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8">
+        <channel>Chaves Desenho</channel>
+    </item>
+    <item title="Denis, O Pimentinha" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8">
+        <channel>Denis, O Pimentinha</channel>
+    </item>
+    <item title="Dragon Ball Super" streamformat="hls" url="http://15.235.9.200:14879">
+        <channel>Dragon Ball Super</channel>
+    </item>
+    <item title="Dragon Ball Z" streamformat="hls" url="https://mf.fazoeli.co.za/fontes/megaflix/24h_dragonball.m3u8">
+        <channel>Dragon Ball Z</channel>
+    </item>
+    <item title="Escolinha do Professor Raimundo" streamformat="hls" url="http://15.235.9.200:14904">
+        <channel>Escolinha do Professor Raimundo</channel>
+    </item>
+    <item title="Eu, a Patroa e as Crianças" streamformat="hls" url="http://15.235.9.200:14908">
+        <channel>Eu, a Patroa e as Crianças</channel>
+    </item>
+    <item title="FitDance" streamformat="hls" url="http://15.235.9.200:14918">
+        <channel>FitDance</channel>
+    </item>
+    <item title="Futurama" streamformat="hls" url="http://15.235.9.200:14924">
+        <channel>Futurama</channel>
+    </item>
+    <item title="Homem de Ferro" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-ironman/video.m3u8">
+        <channel>Homem de Ferro</channel>
+    </item>
+    <item title="Jambo e Ruivão" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-jamboeruivao/video.m3u8">
+        <channel>Jambo e Ruivão</channel>
+    </item>
+    <item title="João Grandão" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-joaograndao/video.m3u8">
+        <channel>João Grandão</channel>
+    </item>
+    <item title="Lady Bug" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8">
+        <channel>Lady Bug</channel>
+    </item>
+    <item title="Maguila, O Gurila" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-maguilaogurila/video.m3u8">
+        <channel>Maguila, O Gurila</channel>
+    </item>
+    <item title="Manda Chuva" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8">
+        <channel>Manda Chuva</channel>
+    </item>
+    <item title="Miraculous" streamformat="hls" url="http://15.235.9.200:14699">
+        <channel>Miraculous</channel>
+    </item>
+    <item title="O Pequeno Urso" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8">
+        <channel>O Pequeno Urso</channel>
+    </item>
+    <item title="Os Jetsons" streamformat="hls" url="https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w2021591179.m3u8">
+        <channel>Os Jetsons</channel>
+    </item>
+    <item title="Os Jovens Titãs" streamformat="hls" url="http://15.235.9.200:14981">
+        <channel>Os Jovens Titãs</channel>
+    </item>
+    <item title="Os Padrinhos Mágicos" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-ospadrinhosmagicos/video.m3u8">
+        <channel>Os Padrinhos Mágicos</channel>
+    </item>
+    <item title="Os Pinguins de Madagascar" streamformat="hls" url="http://15.235.9.200:14983">
+        <channel>Os Pinguins de Madagascar</channel>
+    </item>
+    <item title="Os Simpsons" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8">
+        <channel>Os Simpsons</channel>
+    </item>
+    <item title="Patolino" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8">
+        <channel>Patolino</channel>
+    </item>
+    <item title="Pepe Legal" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8">
+        <channel>Pepe Legal</channel>
+    </item>
+    <item title="Rick and Morty" streamformat="hls" url="http://15.235.9.200:14010">
+        <channel>Rick and Morty</channel>
+    </item>
+    <item title="Samurai Champloo" streamformat="hls" url="http://15.235.9.200:14013">
+        <channel>Samurai Champloo</channel>
+    </item>
+    <item title="Scooby Doo" streamformat="hls" url="http://15.235.9.200:14978">
+        <channel>Scooby Doo</channel>
+    </item>
+    <item title="Show da Luna" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-showdaluna/video.m3u8">
+        <channel>Show da Luna</channel>
+    </item>
+    <item title="South Park" streamformat="hls" url="http://15.235.9.200:14025">
+        <channel>South Park</channel>
+    </item>
+    <item title="Star Wars Rebels" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8">
+        <channel>Star Wars Rebels</channel>
+    </item>
+    <item title="Steven Universo" streamformat="hls" url="http://15.235.9.200:14026">
+        <channel>Steven Universo</channel>
+    </item>
+    <item title="Super Choque" streamformat="hls" url="http://15.235.9.200:14028">
+        <channel>Super Choque</channel>
+    </item>
+    <item title="Super Mário" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8">
+        <channel>Super Mário</channel>
+    </item>
+    <item title="Tartaruga Touché" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8">
+        <channel>Tartaruga Touché</channel>
+    </item>
+    <item title="TazMania" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-tazmania/video.m3u8">
+        <channel>TazMania</channel>
+    </item>
+    <item title="Teletubbies" streamformat="hls" url="http://15.235.9.200:14035">
+        <channel>Teletubbies</channel>
+    </item>
+    <item title="Timão e Pumba" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-timaoepumba/video.m3u8">
+        <channel>Timão e Pumba</channel>
+    </item>
+    <item title="Todo Mundo Odeia o Chris" streamformat="hls" url="http://15.235.9.200:14040">
+        <channel>Todo Mundo Odeia o Chris</channel>
+    </item>
+    <item title="Tom e Jerry" streamformat="hls" url="http://15.235.9.200:14041">
+        <channel>Tom e Jerry</channel>
+    </item>
+    <item title="Três Espiãs" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-tresespias/video.m3u8">
+        <channel>Três Espiãs</channel>
+    </item>
+    <item title="Turma da Mônica" streamformat="hls" url="http://15.235.9.200:14044">
+        <channel>Turma da Mônica</channel>
+    </item>
+    <item title="Um Maluco no Pedaço" streamformat="hls" url="http://15.235.9.200:14046">
+        <channel>Um Maluco no Pedaço</channel>
+    </item>
+    <item title="Wolverine" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8">
+        <channel>Wolverine</channel>
+    </item>
+    <item title="Yu Yu Hakusho" streamformat="hls" url="http://15.235.9.200:14049">
+        <channel>Yu Yu Hakusho</channel>
+    </item>
+    <item title="Zé Buscape" streamformat="hls" url="http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8">
+        <channel>Zé Buscape</channel>
+    </item>
 </Content>
