@@ -50,5 +50,13 @@
   {
     "title": "Arte1",
     "url": "http://185.236.183.117:14017"
+  },
+  {
+    "title": "GLOBO SÃO PAULO",
+    "url": "http://185.236.183.116:17285"
+  },
+  {
+    "title": "SBT",
+    "url": "https://chora-embedflix.shop/fontes/embedtv/sbt.m3u8"
   }
 ]
