@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Content>
-    <item title="Globo" streamformat="hls" url="http://185.236.183.116:17245"/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-    <item title="" streamformat="hls" url=""/>
-</Content>
+{
+  "Content": {
+    "items": [
+      { "title": "Globo", "url": "http://185.236.183.116:17245" },
+      { "title": "", "url": "http://exemplo.com/v2" }
+    ]
+  }
+}
