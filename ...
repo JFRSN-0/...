@@ -1,13 +1,4 @@
 {
-  "channels": [
-    {
-      "title": "Canal 1",
-      "url": "http://185.236.183.117:14112",
-      "group": "Notícias"
-    },
-    {
-      "title": "Canal 2",
-      "url": "http://exemplo.com/canal2.m3u8"
-    }
-  ]
+  "title": "Example Video",
+  "url": "https://roku-webdev-opus.s3.amazonaws.com/public-videos/big+stream+trimmed.mp4"
 }
