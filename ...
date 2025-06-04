@@ -1,62 +1,482 @@
 [
   {
-    "title": "Animal Planet",
-    "url": "http://185.236.183.117:14014"
+    "title": "Globo",
+    "url": "http://185.236.183.116:17285",
+    "category": "Abertos"
   },
   {
-    "title": "Histórico HD",
-    "url": "http://185.236.183.118:14435"
+    "title": "Discovery Channel",
+    "url": "http://185.236.183.118:14144",
+    "category": "Documentarios"
   },
   {
-    "title": "Histórico 2",
-    "url": "http://185.236.183.118:14391"
+    "title": "Filmes Sucessos",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0 &deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "Discovery HD",
-    "url": "http://185.236.183.118:14144"
+    "title": "Filmes Ação",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&dev iceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "E! HD",
-    "url": "http://185.236.183.118:14174/"
+    "title": "Cine Terror",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0& deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "Discovery World",
-    "url": "http://185.236.183.118:14166"
+    "title": "Filmes Suspense",
+    "url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&de viceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId=",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "ID HD",
-    "url": "http://185.236.183.117:14438"
+    "title": "Ficção Científica",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "DISCOVERY TURBO HD",
-    "url": "http://185.236.183.118:14161"
+    "title": "Cine Crime",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "DISCOVERY SCIENCE HD",
-    "url": "http://185.236.183.118:14155"
+    "title": "Cine Comédia",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat =0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "DISCOVERY THEATER HD",
-    "url": "http://185.236.183.118:14160"
+    "title": "Cine Comédia Romântica",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLa t=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "DISCOVERY CASA E SAÚDE HD",
-    "url": "http://185.236.183.118:14147"
+    "title": "Cine Drama",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "HGTV",
-    "url": "http://185.236.183.117:14430"
+    "title": "Cine Clássicos",
+    "url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&de viceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "Arte1",
-    "url": "http://185.236.183.117:14017"
+    "title": "Terror de Lixo",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "GLOBO SÃO PAULO",
-    "url": "http://185.236.183.116:17285"
+    "title": "Filmes Aventura",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0 &deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
   },
   {
-    "title": "SBT",
-    "url": "https://chora-embedflix.shop/fontes/embedtv/sbt.m3u8"
+    "title": "Cine Família",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0& deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
+  },
+  {
+    "title": "Filmes Nacionais",
+    "url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035a fe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337 &deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=",
+    "category": "Pluto Filmes"
+  },
+  {
+    "title": "Netmovies",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0 &deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Filmes"
+  },
+  {
+    "title": "Runtime TV e Filmes",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livesitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceL on=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true",
+    "category": "Pluto Filmes"
+  },
+  {
+    "title": "Filmelier",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Filmes"
+  },
+  {
+    "title": "Séries Criminais",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLa t=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "CSI Miami",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "NCIS",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Série de Ação",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLa t=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Série Dramática",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Series Comédia",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat =0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Clube do Terror",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Novato Azul",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Série de Ficção Científica",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Inferno Sobre Rodas",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "ZNation",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0 &deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Apóste no",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "sendo Maria Jane",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&d eviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Mais jovem",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0& deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Nick adolescente",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0 &deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Icarly",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0& deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "Kenan e Kel",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=desconhecido&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc2a1cd0-5768-11ec-bbb1-31a384f93dc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=9367b8bf-bc68-44c4-81ee-dc4fb8a62f65&userId=&serverSideAds=true",
+    "category": "Pluto Séries"
+  },
+  {
+    "title": "A Vaca e o Frango",
+    "url": "http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Aladdin",
+    "url": "http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Apenas Um Show",
+    "url": "http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "As Aventuras de Jackie Chan",
+    "url": "http://15.235.9.200:14804",
+    "category": "24Horas"
+  },
+  {
+    "title": "As Aventuras de Tintim",
+    "url": "http://15.235.9.200:14803",
+    "category": "24Horas"
+  },
+  {
+    "title": "Como Tartarugas Ninja",
+    "url": "http://15.235.9.200:14808",
+    "category": "24Horas"
+  },
+  {
+    "title": "As Visões da Raven",
+    "url": "http://15.235.9.200:14810",
+    "category": "24Horas"
+  },
+  {
+    "title": "Avatar, A Lenda de Aang",
+    "url": "http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Avatar, A Lenda de Korra",
+    "url": "http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Ben 10",
+    "url": "http://15.235.9.200:14819",
+    "category": "24Horas"
+  },
+  {
+    "title": "Big Bang: A Teoria",
+    "url": "http://15.235.9.200:14037",
+    "category": "24Horas"
+  },
+  {
+    "title": "Bob Esponja",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&adv ertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "category": "24Horas"
+  },
+  {
+    "title": "Boruto",
+    "url": "http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Cão Coragem",
+    "url": "http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Chapolin",
+    "url": "http://15.235.9.200:14844",
+    "category": "24Horas"
+  },
+  {
+    "title": "Chaves",
+    "url": "http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Chaves Desenho",
+    "url": "http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Denis, O Pimentinha",
+    "url": "http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Dragon Ball Super",
+    "url": "http://15.235.9.200:14879",
+    "category": "24Horas"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "url": "https://mf.fazoeli.co.za/fontes/megaflix/24h_dragonball.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Escolinha do Professor Raimundo",
+    "url": "http://15.235.9.200:14904",
+    "category": "24Horas"
+  },
+  {
+    "title": "Eu,a Patroa e as Crianças",
+    "url": "http://15.235.9.200:14908",
+    "category": "24Horas"
+  },
+  {
+    "title": "FitDance",
+    "url": "http://15.235.9.200:14918",
+    "category": "24Horas"
+  },
+  {
+    "title": "Futurama",
+    "url": "http://15.235.9.200:14924",
+    "category": "24Horas"
+  },
+  {
+    "title": "Homem de Ferro",
+    "url": "http://24hrs.homelinux.com:8080/24H-ironman/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Jambo e Ruivão",
+    "url": "http://24hrs.homelinux.com:8080/24H-jamboeruivao/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "João Grandão",
+    "url": "http://24hrs.homelinux.com:8080/24H-joaograndao/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Senhora Bug",
+    "url": "http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Maguila, ó Gurila",
+    "url": "http://24hrs.homelinux.com:8080/24H-maguilaogurila/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Manda Chuva",
+    "url": "http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Milagroso",
+    "url": "http://15.235.9.200:14699",
+    "category": "24Horas"
+  },
+  {
+    "title": "O Pequeno Urso",
+    "url": "http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Os Jetsons",
+    "url": "https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w2021591179.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Os Jovens Titãs",
+    "url": "http://15.235.9.200:14981",
+    "category": "24Horas"
+  },
+  {
+    "title": "Os Padrinhos Mágicos",
+    "url": "http://24hrs.homelinux.com:8080/24H-ospadrinhosmagicos/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Os Pinguins de Madagascar",
+    "url": "http://15.235.9.200:14983",
+    "category": "24Horas"
+  },
+  {
+    "title": "Os Simpsons",
+    "url": "http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Patolino",
+    "url": "http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Pepe Legal",
+    "url": "http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Rick e Morty",
+    "url": "http://15.235.9.200:14010",
+    "category": "24Horas"
+  },
+  {
+    "title": "Samurai Champloo",
+    "url": "http://15.235.9.200:14013",
+    "category": "24Horas"
+  },
+  {
+    "title": "Scooby Doo",
+    "url": "http://15.235.9.200:14978",
+    "category": "24Horas"
+  },
+  {
+    "title": "Show da Luna",
+    "url": "http://24hrs.homelinux.com:8080/24H-showdaluna/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "South Park",
+    "url": "http://15.235.9.200:14025",
+    "category": "24Horas"
+  },
+  {
+    "title": "Star Wars Rebels",
+    "url": "http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Steven Universo",
+    "url": "http://15.235.9.200:14026",
+    "category": "24Horas"
+  },
+  {
+    "title": "Super Choque",
+    "url": "http://15.235.9.200:14028",
+    "category": "24Horas"
+  },
+  {
+    "title": "Super Mário",
+    "url": "http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Toque da Tartarugaé",
+    "url": "http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "TazMania",
+    "url": "http://24hrs.homelinux.com:8080/24H-tazmania/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Teletubbies",
+    "url": "http://15.235.9.200:14035",
+    "category": "24Horas"
+  },
+  {
+    "title": "Timão e Pumba",
+    "url": "http://24hrs.homelinux.com:8080/24H-timaoepumba/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Todo Mundo Odeia o Chris",
+    "url": "http://15.235.9.200:14040",
+    "category": "24Horas"
+  },
+  {
+    "title": "Tom e Jerry",
+    "url": "http://15.235.9.200:14041",
+    "category": "24Horas"
+  },
+  {
+    "title": "Três Espiãs",
+    "url": "http://24hrs.homelinux.com:8080/24H-tresespias/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Turma da Mônica",
+    "url": "http://15.235.9.200:14044",
+    "category": "24Horas"
+  },
+  {
+    "title": "Um Maluco no Pedaço",
+    "url": "http://15.235.9.200:14046",
+    "category": "24Horas"
+  },
+  {
+    "title": "Wolverine",
+    "url": "http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8",
+    "category": "24Horas"
+  },
+  {
+    "title": "Yu Yu Hakusho",
+    "url": "http://15.235.9.200:14049",
+    "category": "24Horas"
+  },
+  {
+    "title": "Zé Buscapé",
+    "url": "http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8",
+    "category": "24Horas"
   }
 ]
