@@ -1,4 +1,10 @@
-{
-  "title": "Example Video",
-  "url": "https://roku-webdev-opus.s3.amazonaws.com/public-videos/big+stream+trimmed.mp4"
-}
+[
+  {
+    "title": "Canal 1",
+    "url": "https://exemplo.com/stream1.mp4"
+  },
+  {
+    "title": "Canal 2",
+    "url": "https://exemplo.com/stream2.mp4"
+  }
+]
