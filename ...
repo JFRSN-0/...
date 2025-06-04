@@ -1,10 +1,54 @@
 [
   {
-    "title": "Discovery",
+    "title": "Animal Planet",
+    "url": "http://185.236.183.117:14014"
+  },
+  {
+    "title": "Histórico HD",
+    "url": "http://185.236.183.118:14435"
+  },
+  {
+    "title": "Histórico 2",
+    "url": "http://185.236.183.118:14391"
+  },
+  {
+    "title": "Discovery HD",
     "url": "http://185.236.183.118:14144"
   },
   {
-    "title": "",
-    "url": ""
+    "title": "E! HD",
+    "url": "http://185.236.183.118:14174/"
+  },
+  {
+    "title": "Discovery World",
+    "url": "http://185.236.183.118:14166"
+  },
+  {
+    "title": "ID HD",
+    "url": "http://185.236.183.117:14438"
+  },
+  {
+    "title": "DISCOVERY TURBO HD",
+    "url": "http://185.236.183.118:14161"
+  },
+  {
+    "title": "DISCOVERY SCIENCE HD",
+    "url": "http://185.236.183.118:14155"
+  },
+  {
+    "title": "DISCOVERY THEATER HD",
+    "url": "http://185.236.183.118:14160"
+  },
+  {
+    "title": "DISCOVERY CASA E SAÚDE HD",
+    "url": "http://185.236.183.118:14147"
+  },
+  {
+    "title": "HGTV",
+    "url": "http://185.236.183.117:14430"
+  },
+  {
+    "title": "Arte1",
+    "url": "http://185.236.183.117:14017"
   }
 ]
