@@ -1,16 +1,52 @@
 {
-  "page": 1,
-  "totalPages": 3,
-  "videos": [
+  "pages": [
     {
-      "title": "Vídeo 1",
-      "url": "http://example.com/v1.mp4",
-      "thumbnail": "http://example.com/t1.jpg"
+      "page": 1,
+      "totalPages": 3,
+      "totalVideos": 15,
+      "videosPerPage": 5,
+      "videos": [
+        {
+          "title": "Introdução ao Roku",
+          "url": "pkg:/videos/video1.mp4",
+          "thumbnail": "pkg:/images/thumb1.jpg",
+          "duration": 354
+        },
+        {
+          "title": "Criando Componentes",
+          "url": "pkg:/videos/video2.mp4",
+          "thumbnail": "pkg:/images/thumb2.jpg",
+          "duration": 421
+        },
+      ]
     },
     {
-      "title": "Vídeo 1",
-      "url": "http://example.com/v1.mp4",
-      "thumbnail": "http://example.com/t1.jpg"
+      "page": 2,
+      "totalPages": 3,
+      "totalVideos": 15,
+      "videosPerPage": 5,
+      "videos": [
+        {
+          "title": "Página 2 - Vídeo 1",
+          "url": "pkg:/videos/video6.mp4",
+          "thumbnail": "pkg:/images/thumb6.jpg",
+          "duration": 298
+        },
+      ]
+    },
+    {
+      "page": 3,
+      "totalPages": 3,
+      "totalVideos": 15,
+      "videosPerPage": 5,
+      "videos": [
+        {
+          "title": "Página 3 - Vídeo 1",
+          "url": "pkg:/videos/video11.mp4",
+          "thumbnail": "pkg:/images/thumb11.jpg",
+          "duration": 512
+        },
+      ]
     }
   ]
 }
