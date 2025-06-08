@@ -1,18 +1,3 @@
 [
-  {
-    "title": "Cine Premium HD",
-    "description": "Filmes blockbusters 24/7",
-    "thumbnail": "pkg:/images/cine_thumb.jpg",
-    "genre": "Filmes",
-    "isLive": false,
-    "streamUrl": "http://exemplo.com/stream1.m3u8"
-  },
-  {
-    "title": "Esportes Ao Vivo",
-    "description": "Jogos em tempo real",
-    "thumbnail": "pkg:/images/sports_thumb.jpg",
-    "genre": "Esportes",
-    "isLive": true,
-    "streamUrl": "http://exemplo.com/stream2.m3u8"
-  }
+  { "title": "Globo", "url": "http://185.236.183.116:17245" },
 ]
