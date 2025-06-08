@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bob Esponja",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+  },
+  {
+    "title": "Boruto",
+    "url": "http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8"
+  },
+  {
+    "title": "Cão Coragem",
+    "url": "http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8"
+  },
+  {
+    "title": "Dragon Ball Super",
+    "url": "http://15.235.9.200:14879"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "url": "https://mf.fazoeli.co.za/fontes/megaflix/24h_dragonball.m3u8"
+  },
+  {
     "title": "Pluto Filmes Sucessos",
     "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&"
   },
