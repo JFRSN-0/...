@@ -4,10 +4,6 @@
     "url": "http://79.127.238.228:14211"
   },
   {
-    "title": "Danz",
-    "url": "https://abc3orwaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
-  },
-  {
     "title": "NossoFutebol",
     "url": "http://185.236.183.117:14070"
   },
@@ -17,7 +13,7 @@
   },
   {
     "title": "Megapix",
-    "url": "https://m3u8.fazoeli.shop/megapix.m3u8"
+    "url": "http://185.236.183.117:14450"
   },
   {
     "title": "Bob Esponja",
