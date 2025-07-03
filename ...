@@ -2,79 +2,79 @@
   {
     "title": "Globo",
     "url": "http://79.127.238.228:14211",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Discovery",
     "url": "http://lojamais.cyou:80/245223829/871759862/141668",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "A&E",
     "url": "http://79.127.238.228:14551",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "AMC",
     "url": "http://lojamais.cyou:80/245223829/871759862/387050",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "AXN",
     "url": "http://lojamais.cyou:80/245223829/871759862/387048",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Cinemax",
     "url": "http://lojamais.cyou:80/245223829/871759862/387053",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Megapix",
     "url": "http://lojamais.cyou:80/245223829/871759862/141464",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Sony Channel",
     "url": "http://zutufo.in/live/661130059/J780p4176C/702.m3u8",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Space",
     "url": "http://zutufo.in/live/661130059/J780p4176C/707.m3u8",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Studio Universal",
     "url": "http://zutufo.in/live/661130059/J780p4176C/713.m3u8",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "TNT",
     "url": "http://servers01.shop:80/1020304050/5040302010/7254849",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Universal Tv",
     "url": "http://newoneblack.site:80/1436702/123456/438224",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   },
   {
     "title": "Warner Tv",
     "url": "http://newoneblack.site:80/1436702/123456/438239",
-    "streamformat": "hls",
-    "playbacktype": "live"
+    "isLive": true,
+    "streamFormat": "hls"
   }
 ]
